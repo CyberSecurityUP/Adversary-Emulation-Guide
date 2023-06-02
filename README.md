@@ -425,15 +425,15 @@
 
 ## References
 
-- https://howto.thec2matrix.com/(The C2 Matrix)
-- http://attack.mitre.org/(Mitre Att&ck)
-- https://github.com/R0B1NL1N/adversary_emulation_library-1(Adversary Emulation Library)
-- https://redteam.guide/(Red Team Guide)
-- https://medium.com/mitre-engenuity/introducing-the-all-new-adversary-emulation-plan-library-234b1d543f6b(Emulation Plan)
-- https://www.cisecurity.org/(CIS Controls)
-- https://www.nist.gov/cyberframework(NIST CSF)
-- https://csrc.nist.gov/glossary/term/red_team_exercise(Red Team Exercise)
-- 
+- https://howto.thec2matrix.com/ (The C2 Matrix)
+- http://attack.mitre.org/ (Mitre Att&ck)
+- https://github.com/R0B1NL1N/adversary_emulation_library-1 (Adversary Emulation Library)
+- https://redteam.guide/ (Red Team Guide)
+- https://medium.com/mitre-engenuity/introducing-the-all-new-adversary-emulation-plan-library-234b1d543f6b (Emulation Plan)
+- https://www.cisecurity.org/ (CIS Controls)
+- https://www.nist.gov/cyberframework (NIST CSF)
+- https://csrc.nist.gov/glossary/term/red_team_exercise (Red Team Exercise)
+- https://github.com/CyberSecurityUP/Red-Team-Management (Red Team Management)
 
 
 
